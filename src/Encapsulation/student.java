@@ -27,7 +27,7 @@ public boolean isIsattended() {
 }
 public void setIsattended(boolean status) {
 	this.isattended = isattended;
-	System.out.println("hello");
+	System.out.println("hello this code got pushed fron git hub");
 }
 public boolean getstudentattendence() {
 	return isattended;
